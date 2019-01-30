@@ -1,0 +1,232 @@
+body {
+	margin:0;
+}
+.home {
+  width: 100%;
+  height: 920px;
+  background-color: aquamarine;
+  background-repeat:repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 804px;
+  position: relative;
+  background-image: url(../images/album.jpg);
+}
+.homes {
+	text-align: center;
+	padding-top: 250px;
+	width: 100%;
+	font-family: "montserrat-bold", sans-serif;
+	-webkit-text-fill-color: slategray;
+	font-size: 60px;
+}
+.homee {
+    width:100%;
+    background-color: slategray;
+	position: fixed;
+	top: 0;
+}
+.ho {
+	margin: 0px 30% 0px 30%;
+	padding: 10px 0px	;
+	width: 40%;
+}
+.hom {
+	position:static;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	padding: 10px 30px;
+	font-size: 40px;
+	font-family: fantasy;
+	height: auto;
+}
+div a.hom:hover{
+	background-color:black;
+}	
+.home2{
+	height:550px
+}
+	
+.home2-about{
+	font-size: 40px;
+	font-family: "montserrat-bold", sans-serif;
+	text-align: center;
+	padding-top:80px;
+	color: #07617d;
+}
+.home2-about2{
+	box-sizing: content-box;
+	margin: 0px 300px 0px 300px;
+	font-size: 50px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	padding-top: 50px;
+}
+.home33 {
+	height: auto;
+	width: 100%;
+	background-color: black;
+	color: white;
+	font-family: "montserrat-bold", sans-serif;
+	text-align: center;
+	font-size: 70px;
+	padding-top: 30px;
+}
+.home3 {
+	margin: 30px 300px 0px 300px;
+}
+.img1 {
+	position: relative;
+	width: 651px;
+	margin-top: 0px;
+}
+.img2 {
+	position: relative;
+	width: 652px;
+	float: right;
+	margin-top: 0px;
+}
+.img3 {
+	position : relative;
+	width: 651px;
+}
+.img4 {
+	width: 652px;
+	float: right;
+	position: relative;
+}
+.img5 {
+	width: 651px;
+	position: relative;
+}
+.img6 {
+    position: relative;
+	float: right;
+	width: 652px;
+}
+.wwe {
+	background-color:black;
+	padding-top: 20px;
+    padding-left: 300px;
+	height: 1000px;
+}
+.wwe1 {
+	top:1540px;
+	position: absolute;
+    font-family: fantasy;
+    font-size: 60px;
+	color: white;
+}
+.wwe2 {
+	background-image: url(../images/fest.jpg);
+    width: 1600px;
+    height: 920px;
+    position: absolute;
+    top: 1485px;
+    opacity: 0.4;
+}
+.wwe3 {
+    top: 145px;
+    position: relative;
+    font-family: fantasy;
+    font-size: 33px;
+    margin-left: 63px;
+    margin-top: 40px;
+	color:white;
+	opacity: 1;
+}
+.con {
+	font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+	color: slategray;
+    background: white;
+    padding: 25px;
+}
+.con1 {
+	font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+	color:slategray;
+    background: white;
+    padding-bottom: 10px;
+}
+.ly {
+	background-color: lightgoldenrodyellow;
+}
+.ly1 {
+	font-size: 64px;
+	font-family: fantasy;
+	padding: 20px;
+	margin-bottom: 20px;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.lyr1 {
+	margin: 30px 200px 30px 80px;
+	height:372px;
+}
+.lim {
+	height:300px;
+	width: 300px;
+}
+.lyr2 {
+    position: relative;
+    bottom: 268px;
+    display: inline;
+    left: 30px;
+    font-size: 37px;
+    font-family: fantasy;
+	text-decoration: none;
+	color: black;
+}
+.lyr3 {
+	left: 327px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    bottom: 257px;
+    margin: 0px 841px 0px 00px;
+    font-size: 26px;
+}
+section div a.lyr2:hover{
+	font-size: 42px;
+}
+.lad {
+	background-color: yellow;
+    left: 1363px;
+    bottom: 85px;
+    position: fixed;
+    font-size: 100px;
+    padding: 250px 200px;
+}
+.dow {
+	margin-left: 70px;
+    position: relative;
+    float: left;
+	margin-top: 30px;
+}
+.dow2 {
+	margin-left: 70px;
+    position: relative;
+    float: left;
+	margin-top: 30px;
+	bottom: 355px;
+	height: 45px;
+}
+.lis {
+	font-family: fantasy;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.ht{
+	height:1000px;
+}
